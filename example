@@ -1,1 +1,1 @@
-
+The example images can be used with the 2D_to_3D.py script to get the example results. Additionally the script should work with your own images, you may have to do some fine tuning but it should mostly be fine. Keep in mind that taking good quality pictures once will result in a better model.
